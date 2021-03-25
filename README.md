@@ -13,7 +13,7 @@
 ![Drop](https://i.imgur.com/v2Thoo6.jpg)
 
 
-*Dropping items are stored in tables locally which with alot of items dropped could cause lag, might be smart to add a limit or delete items when they have been untouched for too long*
+*Dropping items are stored in tables variables which with alot of items dropped could cause lag, might be smart to add a limit or delete items when they have been untouched for too long*
 
 
 Using items:
