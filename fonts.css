@@ -1,0 +1,24 @@
+@font-face {
+	font-family: RubikRegular;
+	src: url(./fonts/Rubik-Regular.ttf);
+}
+@font-face {
+	font-family: RubikBold;
+	src: url(./fonts/Rubik-Bold.ttf);
+}
+@font-face {
+	font-family: RubikBlack;
+	src: url(./fonts/Rubik-Black.ttf);
+}
+@font-face {
+	font-family: RubikMedium;
+	src: url(./fonts/Rubik-Medium.ttf);
+}
+@font-face {
+	font-family: RubikSemiBold;
+	src: url(./fonts/Rubik-SemiBold.ttf);
+}
+@font-face {
+	font-family: RubikLight;
+	src: url(./fonts/Rubik-Light.ttf);
+}
