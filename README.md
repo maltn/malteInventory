@@ -23,7 +23,7 @@ RegisterNetEvent("itemUsed")
 AddEventHandler("itemUsed", function(item)
 	if item == "apple" then
 		--(other conditions such as isPedInVehicle or IsPedDeadOrDying
-		--(TriggerEvent play apple eating)
+		--(trigger animation event to play eating animation)
 		--add food to statusbar & database
 
 		-- Removing item		
