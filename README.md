@@ -1,6 +1,6 @@
 # malteInventory
 ## **This resource is not meant for use, this is purely for show**
-## **I have yet to finish this project which is why there is alot of functionalities missing
+## **I have yet to finish this project which is why there is alot of functionalities missing**
 
 ### UI Layout:
 
