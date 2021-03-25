@@ -1,5 +1,13 @@
 # malteInventory
-This resource is not meant for use, this is purely for show
+##**This resource is not meant for use, this is purely for show**
 
-UI Layout:
+### UI Layout:
+
+
 ![Layout](https://i.imgur.com/6Xw3JFh.png)
+
+
+### Dropping Items:
+
+
+![Drop](https://i.imgur.com/v2Thoo6.jpg)
