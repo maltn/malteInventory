@@ -19,6 +19,7 @@
 Using items:
 
 ```lua
+-- If item is usable and ped *uses* it, the server side will trigger an event called itemUsed, aswell as passing the item used
 RegisterNetEvent("itemUsed")
 AddEventHandler("itemUsed", function(item)
 	if item == "apple" then
